@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>loganking.me</title>
+    <description>Hi! I&#39;m Logan King, a web developer whose passion for God and people leads me to embrace life with a curiosity and desire to learn and grow.
+</description>
+    <link>http://loganking.me/</link>
+    <atom:link href="http://loganking.me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Apr 2015 00:20:04 -0600</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2015 00:20:04 -0600</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
